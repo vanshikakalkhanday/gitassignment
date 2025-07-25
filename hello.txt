@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from remote
+=======
+
+>>>>>>> 02a2ed35f1157aba0c839ae0bb8b4d4a9418f3d6
